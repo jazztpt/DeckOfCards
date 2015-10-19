@@ -9,3 +9,5 @@ I renamed the methods with python's underline syntax rather than capitalized cam
 I assume you don't care whether I take cards from the front or back of the deck.
 
 For "how you would determine that your framework is working correctly for the deck of playing cards", see tests.py (stubbed out, I would use unittest).
+
+Normally I would add all .pyc files to the .gitignore file, but you specifically mentioned compiled code files.  Probably not necessary for python, but I figured I'd refrain from specifically excluding it.
